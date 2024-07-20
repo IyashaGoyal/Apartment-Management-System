@@ -2,12 +2,12 @@
 This project is a database management system designed to handle various activities of an apartment complex, including resident management, apartment unit management, rent payment tracking, and maintenance request management. It was developed as part of a group project by students of the Computer Science and Engineering Department at Thapar Institute of Engineering and Technology.
 
 ## Key Features
-Resident Management: Add, update, and delete resident details, including lease information.
-Apartment Unit Management: Manage apartment unit details, including size, number of rooms, and rental rate.
-Rent Payment Management: Track rent payments, including dates and amounts paid.
-Maintenance Request Management: Submit and track maintenance requests.
-Reporting: Generate comprehensive reports on rent payments, maintenance requests, and occupancy rates.
-Security: Ensure data security with user authentication and authorization.
+- **Resident Management**: Add, update, and delete resident details, including lease information.
+- **Apartment Unit Management**: Manage apartment unit details, including size, number of rooms, and rental rate.
+- **Rent Payment Management**: Track rent payments, including dates and amounts paid.
+- **Maintenance Request Management**: Submit and track maintenance requests.
+- **Reporting**: Generate comprehensive reports on rent payments, maintenance requests, and occupancy rates.
+- **Security**: Ensure data security with user authentication and authorization.
 
 ## Database Design
 The project includes the following primary tables:
