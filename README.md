@@ -12,11 +12,10 @@ This project is a database management system designed to handle various activiti
 ## Database Design
 The project includes the following primary tables:
 
-Building: Stores information about buildings.
-Apartment: Stores information about apartment units.
-Tenant: Stores information about residents.
-Payment: Stores information about rent payments.
-The database was normalized to the Third Normal Form (3NF) to eliminate redundancy and ensure data integrity.
+1. **Building**: Stores information about buildings.
+2. **Apartment**: Stores information about apartment units.
+3. **Tenant**: Stores information about residents.
+4. **Payment**: Stores information about rent payments.
 
 ## SQL & PL/SQL Implementation
 The system was implemented using SQL and PL/SQL. Key SQL operations include table creation, data insertion, and complex queries to manage and analyze data. Advanced join operations were used for detailed data analysis.
