@@ -17,8 +17,8 @@ The project includes the following primary tables:
 3. **Tenant**: Stores information about residents.
 4. **Payment**: Stores information about rent payments.
 
-## SQL & PL/SQL Implementation
-The system was implemented using SQL and PL/SQL. Key SQL operations include table creation, data insertion, and complex queries to manage and analyze data. Advanced join operations were used for detailed data analysis.
+## SQL Implementation
+The system was implemented using SQL. Key SQL operations include table creation, data insertion, and complex queries to manage and analyze data. Advanced join operations were used for detailed data analysis.
 
 ## Conclusion
 This project demonstrates the design and implementation of a comprehensive apartment management system, highlighting strong SQL skills and effective collaboration in a group setting. The system facilitates efficient management of apartment complexes by providing essential functionalities and ensuring data integrity.
